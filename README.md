@@ -1,2 +1,2 @@
-# piloto
- primeiro repositorio
+# Piloto
+ primeiro repositorio do curso Git GitHUb
