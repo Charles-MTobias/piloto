@@ -1,0 +1,4 @@
+essa é uma branch feita na pasta piloto 
+para jogar essa branch para a master é apenas ir em "Branch" > "Merger into current Branch"
+
+"Merger" fusão
